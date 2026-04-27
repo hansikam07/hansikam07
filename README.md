@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hansika Modupalli
+
+## Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [SparkHacks26](https://github.com/hansikam07/SparkHacks26) | Web app spotlighting emerging actors from around the world | HTML, CSS, JavaScript |
+| [CS211-Git](https://github.com/hansikam07/CS211-Git) | CS coursework & assignments | Git |
