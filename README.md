@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [SparkHacks26](https://github.com/hansikam07/SparkHacks26) | Web app spotlighting emerging actors from around the world | HTML, CSS, JavaScript |
+| [Sweet-T](https://github.com/wics-uic/Sweet-T) | Website displaying products and info for a local bakery | Astro, JavaScript, TypeScript, CSS |
+| [Home-Alone-Hackathon](https://github.com/ImDoriFish/Home-Alone-Hackathon) | Survival game teaching kids real-life home safety skills | Unity 6, C#, Pixilart |
 | [CS211-Git](https://github.com/hansikam07/CS211-Git) | CS coursework & assignments | Git |
